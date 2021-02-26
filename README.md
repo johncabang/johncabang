@@ -26,4 +26,4 @@ Full Stack Web Developer.
 
 <br>
 
-![John Cabang's github stats](https://github-readme-stats.vercel.app/api?username=johncabang&count_private=true&theme=blue-green&hide=contribs,prs)
+![John Cabang's github stats](https://github-readme-stats.vercel.app/api?username=johncabang&count_private=true&theme=react&hide=contribs,prs)
